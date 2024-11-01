@@ -49,7 +49,7 @@ Beveiliging: Gegevens worden beschermd door redelijke veiligheidsmaatregelen, en
 Monon Security deelt geen gebruikersgegevens met derden. Gegevens worden alleen gebruikt binnen de context van de bot zelf en blijven vertrouwelijk.
 
 5. Gebruikersrechten
-U hebt het recht om Monon Security te verwijderen van uw server, wat alle actieve gegevensverzameling beëindigt. Om verzoeken te doen over uw gegevens, neem contact op via [contactinformatie/ondersteuningskanaal].
+U hebt het recht om Monon Security te verwijderen van uw server, wat alle actieve gegevensverzameling beëindigt. Om verzoeken te doen over uw gegevens, neem contact op via https://discord.gg/Zpyu8C7Q6m.
 
 6. Wijzigingen aan deze Privacy Policy
 Monon Security behoudt zich het recht voor om wijzigingen aan te brengen in deze Privacy Policy. Belangrijke updates zullen op GitHub en/of in officiële Discord-kanalen worden aangekondigd.
